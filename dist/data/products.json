@@ -1,0 +1,172 @@
+[{
+        "id": 1,
+        "name": "WALLPAINT IW",
+        "type": {
+            "primary": "interior",
+            "sub": "washable"
+        },
+        "image": {
+            "src": "assets/img/whatever.jpg",
+            "alt": "IW"
+        },
+        "colors": [{
+                "id": 1,
+                "value": "red"
+            },
+            {
+                "id": 2,
+                "value": "green"
+            },
+            {
+                "id": 3,
+                "value": "blue"
+            },
+            {
+                "id": 4,
+                "value": "violet"
+            }
+        ],
+        "description": "WALLPAINT IW - is a high-quality water-washable dispersion paint based on acrylic binders. It provides good adherence to substrates, excellent covering power, distinctive whiteness, water vapour permeability and resistance to wet scrubbing. It is used for protection and decoration of interior walls made of concrete, extended render, aerated concrete, asbestos-cement, chipboard.",
+        "quantity": 20,
+        "price": 79,
+        "categories": [{
+                "id": 1,
+                "name": "interior"
+            }
+
+        ]
+
+    },
+    {
+        "id": 2,
+        "name": "WALLPAINT Fq-AM-",
+        "type": {
+            "primary": "interior",
+            "sub": "washable"
+        },
+        "image": {
+            "src": "assets/img/whatever.jpg",
+            "alt": "FQ-AM"
+        },
+        "colors": [{
+                "id": 1,
+                "value": "red"
+            },
+            {
+                "id": 2,
+                "value": "green"
+            },
+            {
+                "id": 3,
+                "value": "blue"
+            },
+            {
+                "id": 4,
+                "value": "violet"
+            }
+        ],
+        "description": "WALLPAINT F is interior, washable, dispersion paint based on acrylic binders, extremely resistant to fungus and mould. It provides good adherence to substrate, excellent coverage, distinctive whiteness, water vapour permeability and resistance to wet scrubbing. MAXIDIS F coating efficiently fights mould growth in damp premises such as basements, kitchens, bathrooms, etc. WALLPAINT F can be tinted with WALL Color or WAPLLPAINT Color as well as in WALLMIX system..",
+        "quantity": 7.5,
+        "price": 100,
+        "categories": [
+            {
+                "id": 3,
+                "name": "decorative"
+            },
+            {
+                "id": 4,
+                "name": "anti-mold"
+            }
+
+        ]
+
+    },
+    {
+        "id": 3,
+        "name": "ULTRAED-HC-W",
+        "type": {
+            "primary": "interior",
+            "sub": "washable"
+        },
+        "image": {
+            "src": "assets/img/whatever.jpg",
+            "alt": "ULTRAED"
+        },
+        "colors": [{
+                "id": 1,
+                "value": "primer-white"
+            }
+        ],
+        "description": "In terms of quality ULTRAED-HC-W belongs to the first class of interior paints. It represents an ecological, dispersion, high-coverage and washable, acrylate-based paint. It provides good dirt resistance and high water vapour permeability. It is used for protection and decoration of interior wall surfaces made of concrete, extended render, aerated concrete, gypsum-cardboard panels, chipboard... It is available in white shade and as the basis for tinting in WALLMIX system.",
+        "quantity": 20,
+        "price": 200,
+        "categories": [
+            {
+                "id": 1,
+                "name": "interior"
+            }
+
+        ]
+
+    },
+    {
+        "id": 4,
+        "name": "WALLPAINT IW ",
+        "type": {
+            "primary": "interior",
+            "sub": "washable"
+        },
+        "image": {
+            "src": "assets/img/whatever.jpg",
+            "alt": "IW"
+        },
+        "colors": [{
+                "id": 1,
+                "value": "red"
+            },
+            {
+                "id": 2,
+                "value": "green"
+            }
+        ],
+        "description": "WALLPAINT IW - is a high-quality water-washable dispersion paint based on acrylic binders. It provides good adherence to substrates, excellent covering power, distinctive whiteness, water vapour permeability and resistance to wet scrubbing. It is used for protection and decoration of interior walls made of concrete, extended render, aerated concrete, asbestos-cement, chipboard.",
+        "quantity": 20,
+        "price": 150,
+        "categories": [{
+            "id": 1,
+            "name": "interior"
+        }]
+
+    },
+    {
+        "id": 5,
+        "name": "WALLPAINT IW",
+        "type": {
+            "primary": "interior",
+            "sub": "washable"
+        },
+        "image": {
+            "src": "assets/img/whatever.jpg",
+            "alt": "IW"
+        },
+        "colors": [{
+                "id": 1,
+                "value": "red"
+            },
+            {
+                "id": 2,
+                "value": "green"
+            }
+        ],
+        "description": "WALLPAINT IW - is a high-quality water-washable dispersion paint based on acrylic binders. It provides good adherence to substrates, excellent covering power, distinctive whiteness, water vapour permeability and resistance to wet scrubbing. It is used for protection and decoration of interior walls made of concrete, extended render, aerated concrete, asbestos-cement, chipboard.",
+        "quantity": 20,
+        "price": 300,
+        "categories": [{
+                "id": 3,
+                "name": "decorative"
+            }
+
+        ]
+
+    }
+]

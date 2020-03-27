@@ -1,0 +1,19 @@
+[
+    {
+        "id" : 1,
+        "name" : "interior"
+    },
+    {
+        "id" : 2,
+        "name" : "exterior"
+    },
+    {
+        "id" : 3,
+        "name" : "decorative"
+    },
+    {
+        "id" : 4,
+        "name": "anti-mold"
+    }
+
+]
